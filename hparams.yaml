@@ -1,0 +1,5 @@
+embedding_dim: 128
+lr: 0.0001
+margin_loss: 0.7
+patience_on_plateau: 2
+threshold: 0.0

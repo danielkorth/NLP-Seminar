@@ -1,0 +1,2 @@
+# The effect of fine-tuning models for duplicate detection in the context of software engineering
+In this seminar I worked on the task of detecting duplicates in software bug reports. Specifically I compared how the dataset used for fine-tuning affects performance. All of the results and code are documented in my [Colab Notebook](https://colab.research.google.com/github/danielkorth/Seminar-NLP-for-Software-Engineering/blob/main/Semantic_Duplicates.ipynb#scrollTo=Jt7D8_0V_Gtx).
